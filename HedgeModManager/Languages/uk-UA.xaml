@@ -31,7 +31,7 @@
     <system:String x:Key="MainUIMLDownloadFail">Не вдалося завантажити завантажувач модів.</system:String>
     <system:String x:Key="MainUISelectGameTitle">Вибрати виконуваний файл гри</system:String>
     <system:String x:Key="MainUISelectGameFilter">Виконуваний файл Windows</system:String>	
-	<system:String x:Key="MainUIInvalidGameHeader">Нерозпізнана гра</system:String>
+    <system:String x:Key="MainUIInvalidGameHeader">Нерозпізнана гра</system:String>
     <system:String xml:space="preserve" x:Key="MainUIInvalidGame">Hedge Mod Manager не вдалося розпізнати гру з&#x0a;обраного виконуваного файлу гри.</system:String>	
     <system:String xml:space="preserve" x:Key="MainUIMLInstallFail">Не вдалося встановити завантажувач модів.&#x0a;Будь ласка, переконайтеся, що у вас є права на запис ігрових файлів.</system:String>
     <system:String xml:space="preserve" x:Key="MainUIMLUninstallFail">Не вдалося видалити завантажувач модів.&#x0a;Будь ласка, переконайтеся, що на даний момент гра не запущена.</system:String>
